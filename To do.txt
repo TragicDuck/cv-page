@@ -1,0 +1,46 @@
+----- To do -----
+
+
+- make navigation bar across the top 
+- research colour theory 
+- get design tips
+- short selling and wording
+- look at other web dev sites <i class="fas fa-stripe-s    "></i>
+
+---- capitalising ----
+
+sellng 
+basic 1 page from 40NTO BUILT REPUTATION up to 60 when ready
+use multiple websites and pages
+pay fro profesional marketing 
+upload website and maybe provide a blog to put adds on 
+
+---- the road to war ----
+--1-2 weeks bootstrap, flexbox, css grid, same as abov not too much time on these
+ odin- complete flex box 
+-- vanilla java script 1 month  - 
+odin comlete java script basics, 
+complete solo learn js 
+--react js 1 month 
+--begin selling single page websites 
+--start enhancing your portfolio page
+
+-- back end --
+git and github 1 week
+node.js express.js deployment for 1-2 months 
+polish portfolio, work on projects and practice algorythems 1-2 months 
+
+lean into odin project throught this process, starting 
+
+---- other things to learn ----
+google analytics 
+other things you can add into pages 
+
+--- reasearch blog websites ---
+--- search other methods of money making ---
+try to make a basic plan for each and see if anyhting sparks
+
+go into videos on browser developer tools 
+videos on html and css oransing, plus make a unique class and id system that makes sense to you
+understand alternative box model better 
+learn commits properly
